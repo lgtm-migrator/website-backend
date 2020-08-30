@@ -1,0 +1,80 @@
+{
+	"links": [
+        {
+            "link": "Github Profile",
+            "color": "none",
+            "img": "https://github.com/favicon.ico",
+            "url": "https://github.com/SpiderGamin",
+            "info": "My github profile. I store all of my open souse code here."
+        },
+        {
+            "link": "Gitlab Profile",
+            "color": "#ff7300",
+			"img": "https://about.gitlab.com/ico/favicon.ico",
+            "url": "https://gitlab.com/SpiderGaming",
+            "info": "My gitlab profile. I don't put much of my code there anymore."
+        },
+        {
+            "link": "SpiderBot",
+            "color": "red",
+            "img": "https://spidergamin.github.io/SpiderGaminIcon.png",
+            "url": "https://github.com/SpiderBot-Code/SpiderBot-Code",
+            "info": "A discord bot im making. Its supposed to do everything. Its under heavy dev at the moment."
+        },
+        {
+            "link": "SpaceCompany Desktop",
+            "color": "none",
+            "img": "https://sparticle999.github.io/SpaceCompany/SpaceCompanyFavicon.png",
+            "url": "https://github.com/spidergamin/SpaceCompany-Desktop",
+            "info": "I am turning a web game, SpaceCompany, into a desktop app."
+        },
+        {
+            "link": "This sites code",
+            "img": "https://spidergamin.github.io/SpiderGaminIcon.png",
+            "color": "none",
+            "url": "https://github.com/spidergamin/spidergamin.github.io/",
+            "info": "Take a look at this sites code. You can also help code it, report bugs, and more."
+        },
+        {
+            "link": "Idle Universe",
+            "color": "none",
+            "url": "https://spidergaming.gitlab.io/idle-universe",
+            "info": "Idle Universe (Incremental Universe) is a game me and some friends were making."
+        },
+        {
+            "link": "Twitter",
+            "color": "#00c3ff",
+			"img": "https://twitter.com/favicon.ico",
+            "url": "https://twitter.com/SpiderGaming0",
+            "info": "On my Twitter, I post random crap and complain."
+        },
+        {
+            "link": "YouTube",
+            "color": "#ff4929",
+			"img": "https://youtube.com/favicon.ico",
+            "url": "https://www.youtube.com/channel/UCO2rlcllQhQdPM8PZkqEAcA",
+            "info": "My YouTube channel, I do Minecraft, challenges, blogs, and much more! I`ts a weird place there, be warned."
+        },
+        {
+            "link": "Twitch",
+            "color": "#cd29ff",
+			"img": "https://twitch.tv/favicon.ico",
+            "url": "https://twitch.tv/SpiderGaming00",
+            "info": "I don't use Twitch much, however I livestream Minecraft and coronacation videos here when I do."
+        },
+        {
+            "link": "Discord",
+            "color": "#a647ff",
+			"img": "https://external-content.duckduckgo.com/ip3/discordapp.com.ico",
+            "url": "https://discord.gg/gRMbZyU",
+            "info": "My Discord server"
+        },
+		{
+            "link": "Reddit",
+            "color": "none",
+            "img": "",
+            "url": "",
+            "info": ""
+        }
+    ]
+}
