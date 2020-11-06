@@ -1,0 +1,21 @@
+{
+	"lists": {
+        "updates": [
+			{
+				"update": [
+					"Added a 'days of school' counter to the about tab",
+					"Timezone improvements"
+				],
+				"date": "0.0.1"
+			}
+        ],
+        "tasks": [
+			{
+				"type": "task",
+				"task": "Not be stressed about school",
+				"date": "8/30, 20",
+				"done": false
+			}
+        ]
+    }
+}

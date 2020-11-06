@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Updates",
+      "body": "I moved to storing the posts and comments in a JSON file rather than a sqlite3 file. **Hopefully this will help prevent posts from deleting themselves.**",
+      "comment": 0,
+      "show": true,
+      "create": "Wed 9/23/2020  8:45:26 AM"
+    },
+    {
+      "id": 2,
+      "title": "Hopefully fixed somethings",
+      "body": "- Added HTML sanitizer\n- Fixed posts and comments deleting themselves (hopefully)\n- Fixed other errors (Hopefully)",
+      "comment": 5,
+      "show": true,
+      "create": "Thu 9/24/2020  10:33:48 PM"
+    },
+    {
+      "id": 3,
+      "title": "Updates",
+      "body": "I changed my GitHub username from spidergamin to SpiderGaming0",
+      "comment": 0,
+      "show": true,
+      "create": "Wed 10/28/2020 , 8:04:22 AM"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 2,
+      "title": "",
+      "body": "Cool",
+      "username": "Spid3r",
+      "create": "Sat 9/26/2020  9:58:26 PM"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "title": "",
+      "body": "So posts still delete themselves...",
+      "username": "Spid3rAtSchool",
+      "create": "Thu 10/1/2020  11:50:16 AM"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "title": "",
+      "body": "Hello",
+      "username": "Spid3rAtSchool",
+      "create": "Thu 10/1/2020  12:14:37 PM"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "title": "",
+      "body": "*test*",
+      "username": "Spid3rAtSchool",
+      "create": "Mon 10/12/2020 , 8:41:44 AM"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "title": "",
+      "body": "Work",
+      "username": "Spid3rAtSchool",
+      "create": "Mon 10/12/2020 , 8:46:26 AM"
+    }
+  ]
+}
