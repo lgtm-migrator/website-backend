@@ -48,7 +48,7 @@ const PASSWORD = process.env.PASSWORD, USERNAME = process.env.USERNAME;
 
 
 app.use(cors({
-	origin: ['https://insberr.github.io'],
+	origin: ['https://insberr.github.io', 'https://uptimerbot.com'],
 	methods: ['GET', 'POST']
 }));
 app.use(bodyParser.json());

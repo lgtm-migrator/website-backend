@@ -1,29 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Updates",
-      "body": "I moved to storing the posts and comments in a JSON file rather than a sqlite3 file. **Hopefully this will help prevent posts from deleting themselves.**",
-      "comment": 0,
-      "show": true,
-      "create": "Wed 9/23/2020  8:45:26 AM"
-    },
-    {
-      "id": 2,
-      "title": "Hopefully fixed somethings",
-      "body": "- Added HTML sanitizer\n- Fixed posts and comments deleting themselves (hopefully)\n- Fixed other errors (Hopefully)",
-      "comment": 5,
-      "show": true,
-      "create": "Thu 9/24/2020  10:33:48 PM"
-    },
-    {
-      "id": 3,
-      "title": "I probably wont ever use this",
-      "body": "Yeah I created thes post thinys but nevr use them lol.",
-      "comment": 0,
-      "show": true,
-      "create": "Wed 10/28/2020 , 8:04:22 AM"
-    }
-  ],
+  "posts": [],
   "comments": []
 }
