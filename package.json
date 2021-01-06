@@ -14,7 +14,7 @@
         "axios": "^0.19.2",
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
-        "date-and-time": "^0.13.1",
+        "date-and-time": "^0.14.2",
         "express": "^4.17.1",
         "lodash": "^4.17.20",
         "lowdb": "^1.0.0",
